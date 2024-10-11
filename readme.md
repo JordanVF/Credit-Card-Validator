@@ -11,11 +11,11 @@ This program implements Luhn's algorithm, which is commonly used to validate var
 ## Installation 
 1. Clone this repository: 
 ```bash 
-git clone https://github.com/yourusername/credit-card-validator.git
+git clone https://github.com/JordanVF/Credit-Card-Validator.git
 ```
 2. Navigate to the project directory: 
 ```bash
-cd credit-card-validator
+cd Credit-Card-Validator
 ```
 3. Ensure you have Python installed. You can check by running:
 ```bash
